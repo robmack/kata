@@ -35,7 +35,7 @@ containing the ET itself.
 
 The diagram below illustrates one possible map of your facility:
 
-![Room Diagram](../rooms.png)
+![Room Diagram](https://github.com/robmack/kata/blob/master/rooms.png?raw=true)
 
 
 Note that placing the guards in room 2 would satisfy the first
